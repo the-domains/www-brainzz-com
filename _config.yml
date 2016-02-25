@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.7595745
+color:
+  saturation: 0.5065427
+  lightness: 0.461166
+  brandStrength: 0.3104231
+  rhythmicContrast: 0.3360123
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Www.brainzz.com
